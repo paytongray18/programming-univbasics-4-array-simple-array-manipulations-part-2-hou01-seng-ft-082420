@@ -1,6 +1,6 @@
 require "pry"
 require './lib/intro_to_simple_array_manipulations.rb'
-https://learn.co/tracks/fswd-prework-2-01/fswd-prework-2-01-fswd-prework/fswd-prework-2-01-fswd-prework-programming-as-conversation-part-4-collection-data-types-array-and-hash/simple-array-manipulations-part-2#
+
 
 describe "using_concat" do 
   before(:each) do 
