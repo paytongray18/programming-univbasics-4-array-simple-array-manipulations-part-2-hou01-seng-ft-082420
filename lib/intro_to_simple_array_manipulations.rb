@@ -1,2 +1,1 @@
-def 
-end
+concat(all_my_favs,)
